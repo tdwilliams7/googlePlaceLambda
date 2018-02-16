@@ -12,6 +12,8 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "node-fetch": "^2.0.0"
+    "googleplaces": "^0.6.1",
+    "node-fetch": "^2.0.0",
+    "node-googleplaces": "^0.1.2"
   }
 }
